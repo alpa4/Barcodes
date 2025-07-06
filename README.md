@@ -7,3 +7,4 @@ https://colab.research.google.com/drive/1QD9RiyfLCrNVpNs1Mx5atbHuld5pUH0J#scroll
 SpeedTest with pyzbar library:
 https://colab.research.google.com/drive/1QD9RiyfLCrNVpNs1Mx5atbHuld5pUH0J#scrollTo=SiocFCwXNMTd
 There is also 3 py files that created to recognize barcodes without any third-party librarires. They are shown in this repository
+The work itself is in the .docx file
